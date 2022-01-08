@@ -1,5 +1,3 @@
-![github banner](https://media-exp1.licdn.com/dms/image/C4E16AQFTFdKlKUNybA/profile-displaybackgroundimage-shrink_350_1400/0/1609745062103?e=1646870400&v=beta&t=JL09ozYGNdETe8Vco9lrJVQWFxt7HMJmEDkE86Sw8JE)
-
 <h1>Hello everyone! I'm Mari</h1>
 <h2>Aspiring Civil & Data Engineer 👷🤖</h2>
 
