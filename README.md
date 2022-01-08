@@ -45,6 +45,12 @@
       <br>Git
     </td>
     <td align="center" width="96">
+      <a>
+        <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
       <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       <br>Python
     </td>
@@ -52,11 +58,6 @@
       <a> <img src="https://seeklogo.com/images/A/adobe-xd-logo-688022652E-seeklogo.com.png" alt="adobe xd" width="40" height="40"/>
       <br>XD
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>HTML
-    </td>
+    
   </tr>
 </table>
